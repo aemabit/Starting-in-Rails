@@ -1,5 +1,5 @@
 # START ON RAILS
-I follow the instrutions in ![Rails Getting Started Guide](https://guides.rubyonrails.org/getting_started.html)
+I follow the instrutions in [Rails Getting Started Guide](https://guides.rubyonrails.org/getting_started.html)
 ![view-rails](app/assets/images/startonrails.png)
 
 ## Ruby version
